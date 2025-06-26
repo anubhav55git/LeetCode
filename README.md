@@ -22,4 +22,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/raavan-55/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Math
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/raavan-55/LeetCode/tree/master/0390-elimination-game) |
+## Recursion
+|  |
+| ------- |
+| [0390-elimination-game](https://github.com/raavan-55/LeetCode/tree/master/0390-elimination-game) |
 <!---LeetCode Topics End-->
