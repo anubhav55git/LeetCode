@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/raavan-55/LeetCode/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raavan-55/LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0238-product-of-array-except-self](https://github.com/raavan-55/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/raavan-55/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -85,4 +86,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/raavan-55/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/raavan-55/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
